@@ -6,4 +6,5 @@ Run `./local-serve.sh` to serve the site on local host.
 
 I set this up with help from this [video series](https://youtu.be/EmSrQCDsMv4) by [Bill Raymond](https://github.com/BillRaymond)
 
-I'm using this theme: TODO: pick a theme
+I'm using the [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme by [Michael Rose](https://github.com/mmistakes)
+The theme is installed as a "remote theme" as suggested in the [quick start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
