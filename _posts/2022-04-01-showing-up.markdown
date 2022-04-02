@@ -29,6 +29,9 @@ I found the group at the [track][plan-sexenal]. I chatted with the coach, Alejan
 
 For the last interval, Alejandro paced me for the first 250m. As instrucuted, I kicked the remaing 150m for a time of 71 seconds. This was followed by stretching and strenghthening that exposed my lack of flexibility and general strength.
 
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/mafia-running.jpg" alt="">
+
 This experience far exceeded my expectations. This is why you *show up*. There is so much for me to gain from this group. Not just running fitness, but an opportunity to improve my Spanish and have a team.
 
 I moved to Mexico City in August of 2021 and boy I had to *show up* for that. Like this morning, I didn't know what to expect and I had doubts as to whether I was capable of living here sustainably. But my experience today affirms my choice to move here. *Soy capaz.*
