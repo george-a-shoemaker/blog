@@ -2,7 +2,7 @@
 layout: single
 title:  "Showing Up"
 date:   2022-04-01 12:00:00 -0600
-categories: life running
+categories: running
 ---
 
 This is the inaugural post of my blog and I wanted to highlight some wisdom that I revisited today.
@@ -32,9 +32,9 @@ For the last interval, Alejandro paced me for the first 250m. As instrucuted, I 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mafia-running.jpg" alt="">
 
-This experience far exceeded my expectations. This is why you *show up*. There is so much for me to gain from this group. Not just running fitness, but an opportunity to improve my Spanish and have a team.
+This is why you *show up*. There is so much for me to gain from this group. Not just running fitness, but an opportunity to improve my Spanish and have a team.
 
-I moved to Mexico City in August of 2021 and boy I had to *show up* for that. Like this morning, I didn't know what to expect and I had doubts as to whether I was capable of living here sustainably. But my experience today affirms my choice to move here. *Soy capaz.*
+I moved to Mexico City in August of 2021 and boy I had to *show up* for that too. Like this morning, I didn't know what to expect, and I had doubts about if I was capable of living here sustainably. But my experience today affirms my choice to move to Mexico City. *Soy capaz.*
 
 Mexico City is full of people who are passionate about their interests and place community over the individual in a way that is very rare in the United States. I'd like to cultivate this mindset and *show up* not just for myself, but for others.
 
