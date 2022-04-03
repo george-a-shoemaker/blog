@@ -37,7 +37,7 @@ This is why you *show up*. There is so much for me to gain from this group. Not 
 
 I moved to Mexico City in August of 2021 and boy I had to *show up* for that too. Like this morning I didn't know what to expect, and I had doubts about whether living here was sustainable. But my experience today affirms my choice to move to Mexico City. *Soy capaz.*
 
-Mexico City is full of people who are passionate about their interests and place community over the individual in a way that is very rare in the United States. I'd like to cultivate this mindset and *show up* not just for myself but for others.
+Mexico City is full of people who are passionate about their interests and place community over the individual in a way that is very rare in the United States. I'd like to cultivate this mindset and *show up* for others.
 
 I have friends here who support me. I have opportunities to learn and grow. I just have to be willing to *show up* and participate.
 
