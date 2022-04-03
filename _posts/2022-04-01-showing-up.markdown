@@ -35,7 +35,7 @@ For the last interval, Alejandro paced me for the first 250m. As instrucuted, I 
 
 This is why you *show up*. There is so much for me to gain from this group. Not just running fitness but an opportunity to improve my Spanish and have a team.
 
-I moved to Mexico City in August of 2021 and boy I had to *show up* for that too. Like this morning I didn't know what to expect, and I had doubts about whether living here was sustainable. But my experience today affirms my choice to move to Mexico City. *Soy capaz.*
+I moved to Mexico City in August of 2021 and boy did I have to *show up* for that too. Like this morning I didn't know what to expect, and I had doubts about whether living here was sustainable. But my experience today affirms my choice to move to Mexico City. *Soy capaz.*
 
 Mexico City is full of people who are passionate about their interests and place community over the individual in a way that is very rare in the United States. I'd like to cultivate this mindset and *show up* for others.
 
