@@ -27,6 +27,9 @@ url: "https://george-a-shoemaker.github.io" # the base hostname & protocol for y
 twitter_username:
 github_username: george-a-shoemaker
 
+# tack this variable onto the end of links to make them open in a new tab
+blank-target: '{:target="_blank"}{:rel="noopener noreferrer"}'
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
