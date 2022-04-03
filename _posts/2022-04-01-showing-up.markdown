@@ -19,7 +19,7 @@ I *showed up* in a very literal sense today. I attended a [Running Mafia][runnin
 1. Will it be worthwhile?
 2. Am I capable?
 
-I knew very little about the group going in. I'm confident in my ability to run, but less confident in my ability to communicate in Spanish and navigate Mexican culture. I made it out the door with these answers:
+I knew very little about the group beforehand. I'm confident in my ability to run but less confident in my ability to communicate in Spanish and navigate Mexican culture. I made it out the door with these answers:
 
 1. Will it be worthwhile?
   - *I don't know. It's ok if it's not. Not every experience needs to be optimized to oblivion.*
