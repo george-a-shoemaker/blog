@@ -5,17 +5,17 @@ date:   2022-04-02 12:00:00 -0600
 categories: running
 ---
 
-Now that I'm in Mexico City and training with [Running Mafia][running-mafia], it makes sense to switch to switch from miles to kilometers. When in Rome.
+Now that I'm in Mexico City and training with [Running Mafia][running-mafia] it makes sense to switch to switch from miles to kilometers. When in Rome.
 
-Switching units is kind of like learning a new language. It's far better to have an intuitive sense of the target unit, rather than translate to your "native" unit. At the moment I think in miles, so here are strategies to reason about miles vs kilometers.
+Switching units is kind of like learning a new language. It's far better to have an intuitive sense of the target unit rather than translate to your "native" unit. At the moment I think in miles, so here are strategies to reason about miles vs kilometers.
 
 ## Converting distances
 
-These are conversion you can do in your head. 1 miles is slightly more than 1.6km. With this is mind we can do approximations with addition and division by 2 and 10. Pretty easy to do in your noggin. 🤓
+1 mile is slightly more than 1.6km. With this is mind we can do approximations with addition and division by 2 and 10. Pretty easy to do in your noggin. 🤓
 
-### Convert Miles => Kilometers
+### Convert Miles –> Kilometers
 
-#### Given M miles:
+#### Given M miles
 - Divide M by 2
 - Divide M by 10
 - Add both to M
@@ -27,7 +27,7 @@ These are conversion you can do in your head. 1 miles is slightly more than 1.6k
 
 *5mi is approximately 8km*. This approximation will *underestimate* the distance in kilometers by < 1%
 
-### Convert Kilometers => Miles
+### Convert Kilometers –> Miles
 
 #### Given K kilometers:
 - Divide K by 2
