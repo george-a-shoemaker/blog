@@ -5,7 +5,7 @@ date:   2022-04-02 12:00:00 -0600
 categories: running
 ---
 
-Now that I'm in Mexico City and training with [Running Mafia][running-mafia] it makes sense to switch to switch from miles to kilometers. When in Rome.
+Now that I'm in Mexico City and training with [Running Mafia][running-mafia]{{ site.blank-target }} it makes sense to switch to switch from miles to kilometers. When in Rome.
 
 Switching units is kind of like learning a new language. It's far better to have an intuitive sense of the target unit rather than translate to your "native" unit. At the moment I think in miles, so here are strategies to reason about miles vs kilometers.
 
